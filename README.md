@@ -38,6 +38,7 @@ The dataset consists of 6 relational tables:
 - **Power BI** – Interactive dashboards and visualizations
 - **Excel** – Initial data cleaning
 - **GitHub** – Project documentation and version control
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/a0c348e6-c901-40be-8682-9a22427fa925" />
 
 ---
 
